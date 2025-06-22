@@ -84,8 +84,7 @@ python3 main.py
 ---
 
 ## 📄 License
-
-This project is open-source under the MIT License.  
+ 
 Feel free to modify and improve it for learning or fun!
 
 ---
