@@ -41,7 +41,6 @@ Turtle-Crossing/
 │   ├── cars.py          # Car generation and movement
 │   └── scoreboard.py    # Level tracking and display
 │
-├── .gitignore
 ├── README.md
 ```
 
