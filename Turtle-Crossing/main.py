@@ -43,7 +43,8 @@ while is_alive:
     if t.ycor() > 280:
         level.increase_level()
         t.next_level()
-        car.next_level()
+        for car in cars:
+            car.next_level()
         time.sleep(0.5)
 
 screen.exitonclick()

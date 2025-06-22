@@ -35,5 +35,5 @@ class Car(Turtle):
         self.goto(self.rand_x + rand_num, self.rand_y)
     
     def next_level(self) -> None:
-        self.x_move *= 1
+        self.x_move += 5
         self.move_speed *= 0.9
