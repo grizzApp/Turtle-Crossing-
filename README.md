@@ -35,7 +35,7 @@ Inspired by the classic Frogger-style gameplay, your mission is to help the turt
 ```
 Turtle-Crossing/
 ├── turtle_crossing/
-│   ├── __init__.py
+│   ├
 │   ├── main.py          # Main game loop
 │   ├── player.py        # Player (turtle) logic
 │   ├── cars.py          # Car generation and movement
