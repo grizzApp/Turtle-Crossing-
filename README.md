@@ -54,14 +54,14 @@ Turtle-Crossing/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/Turtle-Crossing.git
+git clone https://github.com/grizzApp/Turtle-Crossing-.git
 cd Turtle-Crossing
 ```
 
 2. **Run the game**:
 
 ```bash
-python3 turtle_crossing/main.py
+python3 main.py
 ```
 
 ✅ No installation required — the game uses Python’s built-in `turtle` module.
